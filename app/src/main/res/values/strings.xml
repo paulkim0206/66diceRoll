@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">6X6 Dice</string>
+    <string name="textview">TextView</string>
+    <string name="button">Roll Dice!!</string>
+</resources>
